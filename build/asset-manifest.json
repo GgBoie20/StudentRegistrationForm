@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/StudentRegistrationForm/static/css/main.8e88806d.css",
+    "main.js": "/StudentRegistrationForm/static/js/main.f3310bb9.js",
+    "static/media/slogo.jpg": "/StudentRegistrationForm/static/media/slogo.eca55454b12065643f8d.jpg",
+    "index.html": "/StudentRegistrationForm/index.html",
+    "main.8e88806d.css.map": "/StudentRegistrationForm/static/css/main.8e88806d.css.map",
+    "main.f3310bb9.js.map": "/StudentRegistrationForm/static/js/main.f3310bb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e88806d.css",
+    "static/js/main.f3310bb9.js"
+  ]
+}

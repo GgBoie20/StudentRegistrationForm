@@ -11,7 +11,7 @@ import { Toaster } from 'react-hot-toast'
 
 let r =createBrowserRouter([
   {
-    path:"/",
+    path:"*",
     element: <Layout/>,
     children: [
       {
@@ -31,7 +31,7 @@ let r =createBrowserRouter([
         element: <Update/>
       },
       {
-        path: "*",
+        path: "/",
         element: <Errorpage/>
       }
     ]
