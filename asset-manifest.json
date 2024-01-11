@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/StudentRegistrationForm/static/css/main.8e88806d.css",
-    "main.js": "/StudentRegistrationForm/static/js/main.359f7a2a.js",
+    "main.js": "/StudentRegistrationForm/static/js/main.51a4c386.js",
     "static/media/slogo.jpg": "/StudentRegistrationForm/static/media/slogo.eca55454b12065643f8d.jpg",
     "index.html": "/StudentRegistrationForm/index.html",
     "main.8e88806d.css.map": "/StudentRegistrationForm/static/css/main.8e88806d.css.map",
-    "main.359f7a2a.js.map": "/StudentRegistrationForm/static/js/main.359f7a2a.js.map"
+    "main.51a4c386.js.map": "/StudentRegistrationForm/static/js/main.51a4c386.js.map"
   },
   "entrypoints": [
     "static/css/main.8e88806d.css",
-    "static/js/main.359f7a2a.js"
+    "static/js/main.51a4c386.js"
   ]
 }
