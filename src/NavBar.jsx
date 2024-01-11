@@ -8,7 +8,7 @@ import Logo from './slogo.jpg'
 const NavBar = () => {
   return (
     <nav  className='navContainer'>
-      <img src={Logo} height="65px" width="150px" />
+      <img src={Logo} alt='image not found' height="65px" width="150px" />
       <aside className='logoblock'>
         
         <h1>LOGO</h1>
