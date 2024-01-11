@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GgBoie20/StudentRegistrationForm/static/css/main.8e88806d.css",
+    "main.js": "/GgBoie20/StudentRegistrationForm/static/js/main.3dbb9f2f.js",
+    "static/media/slogo.jpg": "/GgBoie20/StudentRegistrationForm/static/media/slogo.eca55454b12065643f8d.jpg",
+    "index.html": "/GgBoie20/StudentRegistrationForm/index.html",
+    "main.8e88806d.css.map": "/GgBoie20/StudentRegistrationForm/static/css/main.8e88806d.css.map",
+    "main.3dbb9f2f.js.map": "/GgBoie20/StudentRegistrationForm/static/js/main.3dbb9f2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e88806d.css",
+    "static/js/main.3dbb9f2f.js"
+  ]
+}

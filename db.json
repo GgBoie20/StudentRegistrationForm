@@ -1,0 +1,85 @@
+{
+  "student": [
+    {
+      "stuname": "Ramesh",
+      "stuemail": "Ramesh@gamil.com",
+      "id": 4,
+      "username": "Devika",
+      "email": "Ramesh@gamil.com",
+      "gender": "female",
+      "hobbies": [
+        "football ",
+        " reading "
+      ]
+    },
+    {
+      "username": "Raman",
+      "email": "Rama@gamil.com",
+      "gender": "male",
+      "hobbies": [
+        "Coding",
+        " cricket",
+        " reading "
+      ],
+      "id": 5
+    },
+    {
+      "username": "Hemant",
+      "email": "hemant@gamil.com",
+      "gender": "male",
+      "hobbies": [
+        "boxing",
+        " travelling "
+      ],
+      "id": 6
+    },
+    {
+      "username": "Hemant",
+      "email": "hemant@gamil.com",
+      "gender": "male",
+      "hobbies": [
+        "boxing",
+        " travelling "
+      ],
+      "id": 7
+    },
+    {
+      "username": "Hemant",
+      "email": "hemant@gamil.com",
+      "gender": "male",
+      "hobbies": [
+        "boxing",
+        " travelling "
+      ],
+      "id": 8
+    },
+    {
+      "username": "Hemant",
+      "email": "hemant@gamil.com",
+      "gender": "male",
+      "hobbies": [
+        "boxing",
+        " travelling "
+      ],
+      "id": 9
+    },
+    {
+      "username": "Hemant",
+      "email": "hemant@gamil.com",
+      "gender": "male",
+      "hobbies": [
+        ""
+      ],
+      "id": 10
+    },
+    {
+      "username": "Hemant",
+      "email": "hemant@gamil.com",
+      "gender": "male",
+      "hobbies": [
+        ""
+      ],
+      "id": 11
+    }
+  ]
+}
